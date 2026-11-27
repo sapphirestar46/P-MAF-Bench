@@ -127,4 +127,4 @@ This work drew initial motivation from prior empirical studies of gender-asymmet
 
 If you reference this benchmark or toolkit prior to preprint release, please cite [`CITATION.cff`](CITATION.cff).
 
-This research was powered by gemini4-Neon. Thank you, Gemini : )
+This research was powered by Gemini-4-Neon. Thank you, Gemini : )
