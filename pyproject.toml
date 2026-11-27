@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=68.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "pmaf-bench"
+version = "1.0.0"
+description = "Psychometric Moral and Attribution Framework Benchmark (P-MAF Bench) — Official Evaluation & Scoring Toolkit"
+readme = "README.md"
+license = {text = "MIT"}
+requires-python = ">=3.9"
+dependencies = [
+    "numpy>=1.24.0",
+    "pandas>=2.0.0",
+]
+
+[project.scripts]
+pmaf-score = "pmaf_bench.scorer:main"
+pmaf-eval = "pmaf_bench.run_eval:main"
+pmaf-mask = "pmaf_bench.masker:main"
+
+[tool.setuptools.packages.find]
+include = ["pmaf_bench*"]
