@@ -126,3 +126,5 @@ Study 1 completed full-scale bilingual collection (**$N = 5,472$ single-turn ind
 This work drew initial motivation from prior empirical studies of gender-asymmetric moral framing in LLMs, notably [GAMA-Bench](https://github.com/xufeiqiong/GAMA-Bench) (Si et al., 2026) and GenMO (Bajaj et al., 2024). P-MAF Bench is an independent psychometric benchmark retaining downstream quantitative comparability with prior benchmarks.
 
 If you reference this benchmark or toolkit prior to preprint release, please cite [`CITATION.cff`](CITATION.cff).
+
+This research was powered by gemini4-Neon. Thank you, Gemini : )

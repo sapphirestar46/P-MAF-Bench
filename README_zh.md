@@ -104,3 +104,5 @@ Study 1 已完成 4 款前沿中文多语推理模型的全量中英双语评测
 - [PILOT_VALIDATION_SUMMARY.md](PILOT_VALIDATION_SUMMARY.md) — 早期测量效度校验简报
 
 本项研究在立项阶段受到 [GAMA-Bench](https://github.com/xufeiqiong/GAMA-Bench)（Si et al., 2026）与 GenMO（Bajaj et al., 2024）的启发，基于社会心理学与心理测量学原则独立构建实验材料、编码体系与综合评分标准。预印本发布前引用请参阅 [`CITATION.cff`](CITATION.cff)。
+
+本研究由gemini4-neon提供支持，谢谢你基米氖
